@@ -1,0 +1,284 @@
+{
+    "survey_info": {
+        "survey_title": "Assessing and measuring multilingual and cross-culture stereotypes in language technology systems",
+        "survey_purpose": "This research is being conducted by researchers at a university. We are inviting you to participate in this research project if you speak one of our target languages. The purpose of this research project is to collect both culturally specific and generally applied social groups, as well as stereotypes about those groups.",
+        "procedures": "You will be asked to assign traits to different social groups as they are perceived in your country.For each listed social group, please choose how people in America stereotype the group. Importantly, we are not interested in your personal beliefs, but rather how you think people in America view these groups.Survey should take approximately 10 minutes.",
+        "potential_risks_and_discomforts": "There are small risks of emotional discomfort for you in our study since at the one step of our surveys we will ask you which groups you associate yourself with. Our study is targeting marginalized social groups, thus you might experience uncomfortable feelings when answering this question. You are asked to provide demographic information, which introduces a small risk of privacy loss. We mitigate this risk by removing identifying information from your responses immediately upon downloading the data from Mechanical Turk. The questions cannot be skipped and if you do not wish to answer one or more questions, you may opt out of participation without any penalization.",
+        "potential_benefits": "There will not be direct benefit to you as a participant. We hope that, in the future, other people might benefit from this study through improved understanding of cross-cultural stereotypes and their presence or absence in computational systems.",
+        "confidentiality": "Any potential loss of confidentiality will be minimized by immediately removing crowd worker identifiers as soon as the data is collected. We do not ask for information like name, email address, etc. We will ask for a small amount of demographic information, which will be immediately dis-associated from your crowd working identity. The collected information will be only accessed by researchers working on this project.\n\nIf we write a report or article about this research project, your identity will be protected to the maximum extent possible. Your information may be shared with representatives of the researchers' university or governmental authorities if you or someone else is in danger or if we are required to do so by law.",
+        "compensation": "You will receive compensation for this task, directly through the crowdsourcing platform. You will be paid $3.50 for completing this survey. The compensation will be credited immediately, but may be revoked if you do not fully complete this survey. You will be responsible for any taxes assessed on the compensation.",
+        "right_to_withdraw_and_questions": "Your participation in this research is completely voluntary.  You may choose not to take part at all. If you decide to participate in this research, you may stop participating at any time. If you decide not to participate in this study or if you stop participating at any time, you will not be penalized.\n\nIf you decide to stop taking part in the study, if you have questions, concerns, or complaints, or if you need to report an injury related to the research, please contact the investigator.",
+        "participant_rights": "If you have questions about your rights as a research participant or wish to report a research-related injury, please contact:",
+        "statement_of_consent": "By continuing with this task, you indicate that you are at least 18 years of age; you have read this consent form or have had it read to you; your questions have been answered to your satisfaction and you voluntarily agree to participate in this research study. You may print a copy of this consent form for your records.\n\nIf you agree to participate, please continue below.",
+        "URL": "https://umdsurvey.umd.edu/jfe/form/SV_bdOVyqZFGfkHKXc"
+    },
+    "survey_questions": [
+        {
+            "page": 0,
+            "type": "MCQ",
+            "question": "CONSENT TO PARTICIPATE",
+            "choices": [
+                "Yes, I consent",
+                "No, I do not consent"
+            ]
+        },
+        {
+            "page": 1,
+            "type": "SA",
+            "question": "In order to receive your payment, please provide your Prolific ID.",
+            "choices": []
+        },
+        {
+            "page": 2,
+            "type": "Instruction",
+            "question": "Some kind of people in our society are viewed as [powerful, confident], while other kind of people in our society are viewed as [the opposite stereotype; powerless, unconfident].\n\nIn the following pages, you will be provided with 5 social groups.\n\nFor each listed social group, please rate how people in America stereotype the group. We will provide a list of trait pairs (e.g., powerless to powerful) and you are to rate where in that range you believe the group is stereotyped.\n\nImportantly, we are not interested in your personal beliefs, but rather how you think people in America view these groups.\n\nNote that there will be test questions in the survey.",
+            "choices": []
+        },
+        {
+            "page": 3,
+            "type": "Likert-Slider-List",
+            "stem": "As viewed by American society, (while my own opinions may differ), how [e.g., powerless, dominant, poor] versus [e.g., powerful, dominated, wealthy] are teenagers?",
+            "questions": [
+                "powerless ↔ powerful",
+                "low status ↔ high status",
+                "dominated ↔ dominant",
+                "poor ↔ wealthy",
+                "unconfident ↔ confident",
+                "unassertive ↔ competitive",
+                "traditional ↔ modern",
+                "religious ↔ science-oriented",
+                "conventional ↔ alternative",
+                "conservative ↔ liberal",
+                "untrustworthy ↔ trustworthy",
+                "dishonest ↔ sincere",
+                "cold ↔ warm",
+                "threatening ↔ benevolent",
+                "repellent ↔ likable",
+                "egotistic ↔ altruistic"
+            ],
+            "choice": "0-100"
+        },
+        {
+            "page": 4,
+            "type": "SA",
+            "question": "Which group was mentioned in the previous question?",
+            "choices": []
+        },
+        {
+            "page": 5,
+            "type": "Likert-Slider-List",
+            "stem": "As viewed by American society, (while my own opinions may differ), how [e.g., powerless, dominant, poor] versus [e.g., powerful, dominated, wealthy] are Christian people?",
+            "questions": [
+                "powerless ↔ powerful",
+                "low status ↔ high status",
+                "dominated ↔ dominant",
+                "poor ↔ wealthy",
+                "unconfident ↔ confident",
+                "unassertive ↔ competitive",
+                "traditional ↔ modern",
+                "religious ↔ science-oriented",
+                "conventional ↔ alternative",
+                "conservative ↔ liberal",
+                "untrustworthy ↔ trustworthy",
+                "dishonest ↔ sincere",
+                "cold ↔ warm",
+                "threatening ↔ benevolent",
+                "repellent ↔ likable",
+                "egotistic ↔ altruistic"
+            ],
+            "choice": "0-100"
+        },
+        {
+            "page": 6,
+            "type": "SA",
+            "question": "Name one of the traits which scored high in the previous question?",
+            "choices": []
+        },
+        {
+            "page": 7,
+            "type": "Likert-Slider-List",
+            "stem": "As viewed by American society, (while my own opinions may differ), how [e.g., powerless, dominant, poor] versus [e.g., powerful, dominated, wealthy] are average people?",
+            "questions": [
+                "powerless ↔ powerful",
+                "low status ↔ high status",
+                "dominated ↔ dominant",
+                "poor ↔ wealthy",
+                "unconfident ↔ confident",
+                "unassertive ↔ competitive",
+                "traditional ↔ modern",
+                "religious ↔ science-oriented",
+                "conventional ↔ alternative",
+                "conservative ↔ liberal",
+                "untrustworthy ↔ trustworthy",
+                "dishonest ↔ sincere",
+                "cold ↔ warm",
+                "threatening ↔ benevolent",
+                "repellent ↔ likable",
+                "egotistic ↔ altruistic"
+            ],
+            "choice": "0-100"
+        },
+        {
+            "page": 8,
+            "type": "SA",
+            "question": "Name one of the traits which scored low in the previous question?",
+            "choices": []
+        },
+        {
+            "page": 9,
+            "type": "Likert-Slider-List",
+            "stem": "As viewed by American society, (while my own opinions may differ), how [e.g., powerless, dominant, poor] versus [e.g., powerful, dominated, wealthy] are blind people?",
+            "questions": [
+                "powerless ↔ powerful",
+                "low status ↔ high status",
+                "dominated ↔ dominant",
+                "poor ↔ wealthy",
+                "unconfident ↔ confident",
+                "unassertive ↔ competitive",
+                "traditional ↔ modern",
+                "religious ↔ science-oriented",
+                "conventional ↔ alternative",
+                "conservative ↔ liberal",
+                "untrustworthy ↔ trustworthy",
+                "dishonest ↔ sincere",
+                "cold ↔ warm",
+                "threatening ↔ benevolent",
+                "repellent ↔ likable",
+                "egotistic ↔ altruistic"
+            ],
+            "choice": "0-100"
+        },
+        {
+            "page": 10,
+            "type": "Likert-Slider-List",
+            "stem": "As viewed by American society, (while my own opinions may differ), how [e.g., powerless, dominant, poor] versus [e.g., powerful, dominated, wealthy] are blind people?",
+            "questions": [
+                "powerless ↔ powerful",
+                "low status ↔ high status",
+                "dominated ↔ dominant",
+                "poor ↔ wealthy",
+                "unconfident ↔ confident",
+                "unassertive ↔ competitive",
+                "traditional ↔ modern",
+                "religious ↔ science-oriented",
+                "conventional ↔ alternative",
+                "conservative ↔ liberal",
+                "untrustworthy ↔ trustworthy",
+                "dishonest ↔ sincere",
+                "cold ↔ warm",
+                "threatening ↔ benevolent",
+                "repellent ↔ likable",
+                "egotistic ↔ altruistic"
+            ],
+            "choice": "0-100"
+        },
+        {
+            "page": 11,
+            "type": "Checkbox",
+            "question": "Which gender identities do you identify with?",
+            "choices": [
+                "Agender",
+                "Man",
+                "Non-binary, genderqueer, and/or gender fluid",
+                "Questioning",
+                "Woman",
+                "Prefer to self-describe: __________",
+                "Prefer not to say"
+            ]
+        },
+        {
+            "page": 11,
+            "type": "SA",
+            "question": "What is your age? (Leave it blank if you prefer not to say.)",
+            "choices": []
+        },
+        {
+            "page": 11,
+            "type": "MCQ",
+            "question": "What is the highest level of education you have completed?",
+            "choices": [
+                "Less than high-school graduate",
+                "High-school graduate or equivalent",
+                "Terminal occupational program",
+                "Associate degree",
+                "Bachelor's degree",
+                "Master's degree",
+                "Professional degree (JD, MD, DVM, etc.)",
+                "Doctorate degree",
+                "Prefer not to say"
+            ]
+        },
+        {
+            "page": 11,
+            "type": "Checkbox",
+            "question": "Which of the following best describes you?",
+            "choices": [
+                "Asian or Pacific Islander",
+                "Black or African American",
+                "Hispanic or Latino",
+                "Native American or Alaskan Native",
+                "White or Caucasian",
+                "Multiracial or Biracial",
+                "A race/ethnicity not listed here",
+                "Prefer not to say"
+            ]
+        },
+        {
+            "page": 11,
+            "type": "Dropdown",
+            "question": "Which state/territory in the US you have lived in for the longest? We will ask you later about stereotyped social groups in the location you choose, so please select the one you are most familiar with.",
+            "choices": [
+                "Alaska",
+                "Alabama",
+                "Arkansas",
+                "..."
+            ]
+        },
+        {
+            "page": 11,
+            "type": "SA",
+            "question": "For how many years have you lived in this location? Enter 0 for \"less than a year.\"",
+            "choices": []
+        },
+        {
+            "page": 11,
+            "type": "MCQ",
+            "question": "Which of these best describes the general area where you live in?",
+            "choices": [
+                "Urban",
+                "Suburban",
+                "Rural",
+                "Remote",
+                "Prefer not to say"
+            ]
+        },
+        {
+            "page": 12,
+            "type": "Checkbox",
+            "question": "It would be helpful for the survey to know if you personally identify with any of these groups. Which of the following do you identify as? (Please select all that apply.).Note that this list is by no means complete.",
+            "choices": [
+                "White",
+                "Hispanic",
+                "Asian",
+                "Black/African American",
+                "Immigrant",
+                "Man",
+                "Woman",
+                "Working class",
+                "Wealthy",
+                "Jewish",
+                "Muslim",
+                "Christian",
+                "Cis",
+                "Transgender",
+                "None of these"
+            ]
+        },
+        {
+            "page": 13,
+            "type": "LA",
+            "question": "Please write down any comments you might have regarding this survey.\n\nFor instance, if you had difficulty understanding the questions, any issues related to the content or the format of the study, etc., this would be useful for us to know.\n\nThank you!\n\nAfter finishing the comment, please go to the next page, which will lead you back to the Prolific site in order for you to be paid.",
+            "choices": []
+        }
+    ]
+}

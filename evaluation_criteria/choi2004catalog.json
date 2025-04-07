@@ -16,433 +16,337 @@
     },
     "criteria": {
         "1. question_design": {
-            "Problems with wording": [
-                {
-                    "ambiguous question": {
-                        "definition": "Ambiguous questions lead respondents to understand the question differently than was intended and, therefore, to answer a different question than was intended.",
-                        "example": "Is your work made more difficult because you are expecting a baby?",
-                        "explanation": "This question is ambiguous. A \"no\" answer may mean, \"No, I'm not expecting a baby,\" or \"No, my work is not made more difficult\".",
-                        "citation": "Aday, 1996; Foddy, 1993"
-                    }
+            "Problems with wording": {
+                "ambiguous question": {
+                    "definition": "Ambiguous questions lead respondents to understand the question differently than was intended and, therefore, to answer a different question than was intended.",
+                    "example": "Is your work made more difficult because you are expecting a baby?",
+                    "explanation": "This question is ambiguous. A \"no\" answer may mean, \"No, I'm not expecting a baby,\" or \"No, my work is not made more difficult\".",
+                    "citation": "Aday, 1996; Foddy, 1993"
                 },
-                {
-                    "complex question": {
-                        "definition": "Complex and lengthy questions should be avoided in a questionnaire.",
-                        "example": "Has it happened to you that over a long period of time, when you neither practiced abstinence, nor used birth control, you did not conceive?",
-                        "explanation": "This question, which was used in a survey on family planning conducted for the Royal Commission on Population, is vague (\"a long period of time\"), too formal (\"Has it happened to you that\"), and complex, because of its length and use of the neither/nor construction.",
-                        "citation": "Lewis-Faning, 1949"
-                    }
+                "complex question": {
+                    "definition": "Complex and lengthy questions should be avoided in a questionnaire.",
+                    "example": "Has it happened to you that over a long period of time, when you neither practiced abstinence, nor used birth control, you did not conceive?",
+                    "explanation": "This question, which was used in a survey on family planning conducted for the Royal Commission on Population, is vague (\"a long period of time\"), too formal (\"Has it happened to you that\"), and complex, because of its length and use of the neither/nor construction.",
+                    "citation": "Lewis-Faning, 1949"
                 },
-                {
-                    "double-barrelled question (two questions in one)": {
-                        "definition": "Questions that are made up of two or more questions make it difficult for the respondent to know which part of the question to answer and for the investigator to know which part of the question the respondent actually answered.",
-                        "example": "Do you agree that acquired immunodeficiency syndrome (AIDS) can be transmitted by shaking hands with a person with AIDS or through other means of physical contact?",
-                        "explanation": "A \"no\" answer may mean not by shaking hands, or not through other means of physical contact, or both.",
-                        "citation": "Kelsey, 1986; Aday, 1996"
-                    }
+                "double-barrelled question (two questions in one)": {
+                    "definition": "Questions that are made up of two or more questions make it difficult for the respondent to know which part of the question to answer and for the investigator to know which part of the question the respondent actually answered.",
+                    "example": "Do you agree that acquired immunodeficiency syndrome (AIDS) can be transmitted by shaking hands with a person with AIDS or through other means of physical contact?",
+                    "explanation": "A \"no\" answer may mean not by shaking hands, or not through other means of physical contact, or both.",
+                    "citation": "Kelsey, 1986; Aday, 1996"
                 },
-                {
-                    "short question": {
-                        "definition": "Short questions may not be as accurately answered as questions that are longer. A question that is short may come across as abrupt in an interview situation. Questions that include a transition to the next topic give respondents more time to gather their thoughts and also more clues to use in formulating their responses",
-                        "example": "Have you had bad sore throats?\n\nNow a question about bad sore throats. We're looking for information about these. Have you had bad sore throats?",
-                        "explanation": "The first question has been found to be less accurately answered than the second question when compared with information obtained from the respondents' physicians. The second question includes an introduction that sets up the query.",
-                        "citation": "Foddy, 1993; Marquis, 1969"
-                    }
+                "short question": {
+                    "definition": "Short questions may not be as accurately answered as questions that are longer. A question that is short may come across as abrupt in an interview situation. Questions that include a transition to the next topic give respondents more time to gather their thoughts and also more clues to use in formulating their responses",
+                    "example": "Have you had bad sore throats?\n\nNow a question about bad sore throats. We're looking for information about these. Have you had bad sore throats?",
+                    "explanation": "The first question has been found to be less accurately answered than the second question when compared with information obtained from the respondents' physicians. The second question includes an introduction that sets up the query.",
+                    "citation": "Foddy, 1993; Marquis, 1969"
                 },
-                {
-                    "technical jargon": {
-                        "definition": "Technical jargon and the profession's technical terms may not be understood by the general public and should be avoided.",
-                        "example": "What was your age at menarche?\n\nWhat was your age when your menstrual periods started?",
-                        "explanation": "The technical term in the first question may not be understood by many women, so it is preferable to ask the same question in more common terms, as in the second question.",
-                        "citation": "Kelsey, 1986"
-                    }
+                "technical jargon": {
+                    "definition": "Technical jargon and the profession's technical terms may not be understood by the general public and should be avoided.",
+                    "example": "What was your age at menarche?\n\nWhat was your age when your menstrual periods started?",
+                    "explanation": "The technical term in the first question may not be understood by many women, so it is preferable to ask the same question in more common terms, as in the second question.",
+                    "citation": "Kelsey, 1986"
                 },
-                {
-                    "uncommon word": {
-                        "definition": "Uncommon and difficult words should be avoided in questionnaires.",
-                        "example": "Replace uncommon word \"Assist\" with common word \"Help\"",
-                        "explanation": "Use common words in questionnaires, especially questionnaires targeted for the general population, to avoid misunderstanding.",
-                        "citation": "Gowers 1954; Day 1998"
-                    }
+                "uncommon word": {
+                    "definition": "Uncommon and difficult words should be avoided in questionnaires.",
+                    "example": "Replace uncommon word \"Assist\" with common word \"Help\"",
+                    "explanation": "Use common words in questionnaires, especially questionnaires targeted for the general population, to avoid misunderstanding.",
+                    "citation": "Gowers 1954; Day 1998"
                 },
-                {
-                    "vague word": {
-                        "definition": "Vague words in vague questions encourage vague answers.",
-                        "example": "How often do you exercise?\n[ ] Regularly\n[ ] Occasionally\n\nHow often do you exercise?\n[ ] twice a week or more often\n[ ] once a week\n[ ] less than once a week",
-                        "explanation": "The first question is vague because \"occasionally\" and \"regularly\" are not defined. The meaning can easily be made more precise, as in the second question.",
-                        "citation": "Aday, 1996"
-                    }
+                "vague word": {
+                    "definition": "Vague words in vague questions encourage vague answers.",
+                    "example": "How often do you exercise?\n[ ] Regularly\n[ ] Occasionally\n\nHow often do you exercise?\n[ ] twice a week or more often\n[ ] once a week\n[ ] less than once a week",
+                    "explanation": "The first question is vague because \"occasionally\" and \"regularly\" are not defined. The meaning can easily be made more precise, as in the second question.",
+                    "citation": "Aday, 1996"
                 }
-            ],
-            "Missing or inadequate data for intended purpose": [
-                {
-                    "belief vs behavior  (hypothetical question, personalized question)": {
-                        "definition": "Questions that ask the respondent about a belief (hypothetical) can yield quite different answers than questions that ask the respondent about his or her behaviors (personalized)",
-                        "example": "Do you think that it is a good idea to have everyone's chest regularly checked by X-ray?\n\nHave you ever had yours checked?",
-                        "explanation": "The two questions generated different results. Ninety-six percent of the respondents answered \"yes\" to the first question, but only 54% answered \"yes\" to the second (13). The answers to both questions may be accurate even though the results are different. The investigator must determine whether the purpose of the question is to collect data regarding a belief or a behavior and design the question accordingly.",
-                        "citation": "David, 1952"
-                    }
+            },
+            "Missing or inadequate data for intended purpose": {
+                "belief vs behavior  (hypothetical question, personalized question)": {
+                    "definition": "Questions that ask the respondent about a belief (hypothetical) can yield quite different answers than questions that ask the respondent about his or her behaviors (personalized)",
+                    "example": "Do you think that it is a good idea to have everyone's chest regularly checked by X-ray?\n\nHave you ever had yours checked?",
+                    "explanation": "The two questions generated different results. Ninety-six percent of the respondents answered \"yes\" to the first question, but only 54% answered \"yes\" to the second (13). The answers to both questions may be accurate even though the results are different. The investigator must determine whether the purpose of the question is to collect data regarding a belief or a behavior and design the question accordingly.",
+                    "citation": "David, 1952"
                 },
-                {
-                    "starting time": {
-                        "definition": "Failure to identify a common starting time for exposure or illness may lead to bias.",
-                        "example": "In the last 12 months, have you had an accident causing head injury?\n\nFrom January 1 to December 31 of last year, did you have an accident causing head injury?",
-                        "explanation": "Because a survey is normally conducted over an extended period, the time frame of \"last 12 months\" will vary depending on the date of the interview. The data obtained therefore cannot be used to estimate incidence rates. The following question is better and will provide a common time frame:",
-                        "citation": "Sackett, 1979"
-                    }
+                "starting time": {
+                    "definition": "Failure to identify a common starting time for exposure or illness may lead to bias.",
+                    "example": "In the last 12 months, have you had an accident causing head injury?\n\nFrom January 1 to December 31 of last year, did you have an accident causing head injury?",
+                    "explanation": "Because a survey is normally conducted over an extended period, the time frame of \"last 12 months\" will vary depending on the date of the interview. The data obtained therefore cannot be used to estimate incidence rates. The following question is better and will provide a common time frame:",
+                    "citation": "Sackett, 1979"
                 },
-                {
-                    "data degradation": {
-                        "definition": "It is better to collect accurate, continuous data at source instead of degraded data. Once degraded data have been collected, it is impossible to recover the original continuous data or to change cut-off criteria for categories",
-                        "example": "(Best): What is your birth date?\n(Good): What is your age in years? (Data Degraded): Which age category do you belong to?",
-                        "explanation": "For information on age, the first question is the best because it can provide accurate continuous data, followed by the second question. The third question is the least desirable because data are degraded",
-                        "citation": "Aday, 1996"
-                    }
+                "data degradation": {
+                    "definition": "It is better to collect accurate, continuous data at source instead of degraded data. Once degraded data have been collected, it is impossible to recover the original continuous data or to change cut-off criteria for categories",
+                    "example": "(Best): What is your birth date?\n(Good): What is your age in years? (Data Degraded): Which age category do you belong to?",
+                    "explanation": "For information on age, the first question is the best because it can provide accurate continuous data, followed by the second question. The third question is the least desirable because data are degraded",
+                    "citation": "Aday, 1996"
                 },
-                {
-                    "insensitive measure": {
-                        "definition": "When outcome measures make it impossible to detect clinically significant changes or differences, Type II errors occur.",
-                        "example": "How important is health to you, on a scale of 1 to 3?\n(Unimportant) 1 - 2 - 3 (Important)\n\nHow important is health to you, on a scale of 1 to 10?\n(Unimportant) 1 - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (Important)",
-                        "explanation": "The first question may not have sufficient discriminating power to differentiate the respondents because of the limited categories. The second question may be better.",
-                        "citation": "Sackett, 1979"
-                    }
+                "insensitive measure": {
+                    "definition": "When outcome measures make it impossible to detect clinically significant changes or differences, Type II errors occur.",
+                    "example": "How important is health to you, on a scale of 1 to 3?\n(Unimportant) 1 - 2 - 3 (Important)\n\nHow important is health to you, on a scale of 1 to 10?\n(Unimportant) 1 - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 (Important)",
+                    "explanation": "The first question may not have sufficient discriminating power to differentiate the respondents because of the limited categories. The second question may be better.",
+                    "citation": "Sackett, 1979"
                 }
-            ],
-            "Faulty scale": [
-                {
-                    "forced choice (insufficient category)": {
-                        "definition": "Questions that provide too few categories can force respondents to choose imprecisely among limited options.",
-                        "example": "Do you agree? Yes [ ] No [ ]\n\nDo you agree? Yes [ ] No [ ] Don't Know [ ]",
-                        "explanation": "The first question, which does not have a \"don't know\" category, may produce a bias because respondents who have no opinion are forced to select an answer that may or may not reflect their true feelings. The second question is recommended.",
-                        "citation": "Foddy, 1993; Kelsey, 1986"
-                    }
+            },
+            "Faulty scale": {
+                "forced choice (insufficient category)": {
+                    "definition": "Questions that provide too few categories can force respondents to choose imprecisely among limited options.",
+                    "example": "Do you agree? Yes [ ] No [ ]\n\nDo you agree? Yes [ ] No [ ] Don't Know [ ]",
+                    "explanation": "The first question, which does not have a \"don't know\" category, may produce a bias because respondents who have no opinion are forced to select an answer that may or may not reflect their true feelings. The second question is recommended.",
+                    "citation": "Foddy, 1993; Kelsey, 1986"
                 },
-                {
-                    "missing interval": {
-                        "definition": "Missing intervals in response choices can cause confusion.",
-                        "example": "How often does the computer system go down?\n[ ] Less than once per month\n[ ] Once per month\n[ ] Once per week\n[ ] More than once per week\n\nHow often does the computer system go down?\n[ ] Less than once per month\n[ ] Once per month to once per week\n[ ] More than once per week",
-                        "explanation": "Respondents do not have a place to put \"once every two weeks.\" The following response categories are recommended:",
-                        "citation": ""
-                    }
+                "missing interval": {
+                    "definition": "Missing intervals in response choices can cause confusion.",
+                    "example": "How often does the computer system go down?\n[ ] Less than once per month\n[ ] Once per month\n[ ] Once per week\n[ ] More than once per week\n\nHow often does the computer system go down?\n[ ] Less than once per month\n[ ] Once per month to once per week\n[ ] More than once per week",
+                    "explanation": "Respondents do not have a place to put \"once every two weeks.\" The following response categories are recommended:",
+                    "citation": ""
                 },
-                {
-                    "overlapping interval": {
-                        "definition": "Overlapping intervals in response choices can cause confusion.",
-                        "example": "How many cigarettes do you smoke per day?\nNone [ ] 5 or less [ ] 5-25 [ ] 25 or more\n\nHow many cigarettes do you smoke per day?\n[ ] None [ ] 1-4 [ ] 5-24 [ ] 25 or more",
-                        "explanation": "Respondents smoking exactly 5 or 25 cigarettes per day do not know in which category to place themselves.",
-                        "citation": "Kelsey, 1986"
-                    }
+                "overlapping interval": {
+                    "definition": "Overlapping intervals in response choices can cause confusion.",
+                    "example": "How many cigarettes do you smoke per day?\nNone [ ] 5 or less [ ] 5-25 [ ] 25 or more\n\nHow many cigarettes do you smoke per day?\n[ ] None [ ] 1-4 [ ] 5-24 [ ] 25 or more",
+                    "explanation": "Respondents smoking exactly 5 or 25 cigarettes per day do not know in which category to place themselves.",
+                    "citation": "Kelsey, 1986"
                 },
-                {
-                    "scale format": {
-                        "definition": "An even or an odd number of categories in the scale for the respondents to choose from may produce different results.",
-                        "example": "Do you agree? (Agree) 1 - 2 - 3 (Disagree)\n\nDo you agree? (Agree) 1 - 2 - 3 - 4 (Disagree)",
-                        "explanation": "The first question, with an odd number of categories, tends to result in neutral answers (i.e., 2), and the second question, with an even number of categories, tends to force respondents to take sides. The two approaches produce different results, but there is no general consensus as to which one is better.",
-                        "citation": "Aday, 1996"
-                    }
+                "scale format": {
+                    "definition": "An even or an odd number of categories in the scale for the respondents to choose from may produce different results.",
+                    "example": "Do you agree? (Agree) 1 - 2 - 3 (Disagree)\n\nDo you agree? (Agree) 1 - 2 - 3 - 4 (Disagree)",
+                    "explanation": "The first question, with an odd number of categories, tends to result in neutral answers (i.e., 2), and the second question, with an even number of categories, tends to force respondents to take sides. The two approaches produce different results, but there is no general consensus as to which one is better.",
+                    "citation": "Aday, 1996"
                 }
-            ],
-            "Leading questions": [
-                {
-                    "framing": {
-                        "definition": "Some questions may be framed in such a manner that respondents choose an inaccurate answer.",
-                        "example": "Which operation would you prefer?\n[ ] An operation that has a 5% mortality.\n[ ] An operation in which 90% of the patients will survive.",
-                        "explanation": "Patients scheduled for surgery may choose the second option when they see or hear the words \"90%\" and \"survive,\" but in fact a 90% survival rate (or 10% mortality) is worse than a 5% mortality.",
-                        "citation": "Aday, 1996"
-                    }
+            },
+            "Leading questions": {
+                "framing": {
+                    "definition": "Some questions may be framed in such a manner that respondents choose an inaccurate answer.",
+                    "example": "Which operation would you prefer?\n[ ] An operation that has a 5% mortality.\n[ ] An operation in which 90% of the patients will survive.",
+                    "explanation": "Patients scheduled for surgery may choose the second option when they see or hear the words \"90%\" and \"survive,\" but in fact a 90% survival rate (or 10% mortality) is worse than a 5% mortality.",
+                    "citation": "Aday, 1996"
                 },
-                {
-                    "leading question": {
-                        "definition": "Different wording of the same question can guide or direct respondents toward a different answer.",
-                        "example": "Do you do physical exercise, such as cycling?",
-                        "explanation": "This is a leading question because it will likely lead the respondent to focus only on cycling.",
-                        "citation": "Aday, 1996; Foddy, 1993"
-                    }
+                "leading question": {
+                    "definition": "Different wording of the same question can guide or direct respondents toward a different answer.",
+                    "example": "Do you do physical exercise, such as cycling?",
+                    "explanation": "This is a leading question because it will likely lead the respondent to focus only on cycling.",
+                    "citation": "Aday, 1996; Foddy, 1993"
                 },
-                {
-                    "negatively worded question": {
-                        "definition": "Different wording of the same question can guide or direct respondents toward a different answer.",
-                        "example": " Don't you agree that . . . ?",
-                        "explanation": "This negatively worded question leads respondents to answer no. The preferred phrasing is, \"Do you agree or disagree that . . . ?\"",
-                        "citation": "Aday, 1996; Foddy, 1993; Schlesselman, 1982"
-                    }
+                "negatively worded question": {
+                    "definition": "Different wording of the same question can guide or direct respondents toward a different answer.",
+                    "example": " Don't you agree that . . . ?",
+                    "explanation": "This negatively worded question leads respondents to answer no. The preferred phrasing is, \"Do you agree or disagree that . . . ?\"",
+                    "citation": "Aday, 1996; Foddy, 1993; Schlesselman, 1982"
                 },
-                {
-                    "mind-set": {
-                        "definition": "The mind-set of the respondent can affect his or her perception of questions and therefore can affect answers.",
-                        "example": "1. How many cigarettes do you smoke per week?\n2. How many cigars do you smoke per week?\n3. How many beers do you drink per month?",
-                        "explanation": "The change in wording from \"per week\" to \"per month\" can result in wrong answers for the third question above, because of the possible mind-set of the respondents.",
-                        "citation": ""
-                    }
+                "mind-set": {
+                    "definition": "The mind-set of the respondent can affect his or her perception of questions and therefore can affect answers.",
+                    "example": "1. How many cigarettes do you smoke per week?\n2. How many cigars do you smoke per week?\n3. How many beers do you drink per month?",
+                    "explanation": "The change in wording from \"per week\" to \"per month\" can result in wrong answers for the third question above, because of the possible mind-set of the respondents.",
+                    "citation": ""
                 }
-            ],
-            "Intrusiveness": [
-                {
-                    "reporting (self-report response)": {
-                        "definition": "A respondent may selectively suppress information, such as past history of sexually transmitted disease",
-                        "example": "In the past five years, have you engaged in anal intercourse, that is, rectal intercourse?\n\nPeople practice many different sexual activities, and some people practice things that other people do not. In the past five years, have you engaged in anal intercourse, that is, rectal intercourse?",
-                        "explanation": "This question is so direct and up-front that many people may refuse to answer. The following question may reduce reporting bias by deliberately loading the question to suggest that others also engage in the behavior.",
-                        "citation": "Last 2001; Fennema 1995; Aday 1996"
-                    }
+            },
+            "Intrusiveness": {
+                "reporting (self-report response)": {
+                    "definition": "A respondent may selectively suppress information, such as past history of sexually transmitted disease",
+                    "example": "In the past five years, have you engaged in anal intercourse, that is, rectal intercourse?\n\nPeople practice many different sexual activities, and some people practice things that other people do not. In the past five years, have you engaged in anal intercourse, that is, rectal intercourse?",
+                    "explanation": "This question is so direct and up-front that many people may refuse to answer. The following question may reduce reporting bias by deliberately loading the question to suggest that others also engage in the behavior.",
+                    "citation": "Last 2001; Fennema 1995; Aday 1996"
                 },
-                {
-                    "sensitive question": {
-                        "definition": "Sensitive questions, such as age, personal or household incomes, sexual orientation, or marital status, may elicit inaccurate answers and may also affect the interviewer-interviewee relationship so that all subsequent answers can be affected.",
-                        "example": "Too Direct: How old are you?\n\nLess Direct (Protects Interviewer-Interviewee Relationship): In what year were you born?",
-                        "explanation": "The first question, which is direct, tends to result in a high percentage of refusals to answer. The second question tends to yield fairly accurate responses",
-                        "citation": "Aday, 1996"
-                    }
+                "sensitive question": {
+                    "definition": "Sensitive questions, such as age, personal or household incomes, sexual orientation, or marital status, may elicit inaccurate answers and may also affect the interviewer-interviewee relationship so that all subsequent answers can be affected.",
+                    "example": "Too Direct: How old are you?\n\nLess Direct (Protects Interviewer-Interviewee Relationship): In what year were you born?",
+                    "explanation": "The first question, which is direct, tends to result in a high percentage of refusals to answer. The second question tends to yield fairly accurate responses",
+                    "citation": "Aday, 1996"
                 }
-            ],
-            "Inconsistency": [
-                {
-                    "case definition": {
-                        "definition": "Definition of cases based on different versions of the International Classification of Disease (ICD) codes, for example, or first-ever cases vs recurrent cases, may change over time or across regions, resulting in inaccurate trends and geographic comparisons",
-                        "example": "How many bladder cancer cases do you see in a year?\nHow many histologically confirmed bladder cancer cases do you see in a year?",
-                        "explanation": "The use of two different case definitions can present problems when comparing results.",
-                        "citation": "May 1994"
-                    }
+            },
+            "Inconsistency": {
+                "case definition": {
+                    "definition": "Definition of cases based on different versions of the International Classification of Disease (ICD) codes, for example, or first-ever cases vs recurrent cases, may change over time or across regions, resulting in inaccurate trends and geographic comparisons",
+                    "example": "How many bladder cancer cases do you see in a year?\nHow many histologically confirmed bladder cancer cases do you see in a year?",
+                    "explanation": "The use of two different case definitions can present problems when comparing results.",
+                    "citation": "May 1994"
                 },
-                {
-                    "change of scale": {
-                        "definition": "If the measurement scale for a quantity changes in different surveys, the results may not be comparable.",
-                        "example": "Compared to other persons your age, would you say your health is excellent, good, fair, or poor?\n\nWould you say your health in general is excellent, very good, good, fair, or poor?",
-                        "explanation": "The first question, which was used in the 1985 National Center for Health Statistics National Health Interview Survey (NCHS-NHIS), has four categories of health, and the second question (1995 NCHS-NHIS) has five categories. Therefore, the categories may not mean exactly the same in the two surveys and will cause a problem for comparison over time.",
-                        "citation": "Aday, 1996"
-                    }
+                "change of scale": {
+                    "definition": "If the measurement scale for a quantity changes in different surveys, the results may not be comparable.",
+                    "example": "Compared to other persons your age, would you say your health is excellent, good, fair, or poor?\n\nWould you say your health in general is excellent, very good, good, fair, or poor?",
+                    "explanation": "The first question, which was used in the 1985 National Center for Health Statistics National Health Interview Survey (NCHS-NHIS), has four categories of health, and the second question (1995 NCHS-NHIS) has five categories. Therefore, the categories may not mean exactly the same in the two surveys and will cause a problem for comparison over time.",
+                    "citation": "Aday, 1996"
                 },
-                {
-                    "change of wording": {
-                        "definition": "If the precise wording of a question changes in different surveys, the results may not be comparable.",
-                        "example": "Compared to other persons your age, would you say your health is excellent, good, fair, or poor?\n\nWould you say your health in general is excellent, very good, good, fair, or poor?",
-                        "explanation": "The first question (1985 NCHS-NHIS) and the second question (1995 NCHS-NHIS) use different wording, namely, \"compared to other persons your age\" vs \"in general.\" This may guide respondents to evaluate their health in a different context.",
-                        "citation": "Aday, 1996; Foddy, 1993"
-                    }
+                "change of wording": {
+                    "definition": "If the precise wording of a question changes in different surveys, the results may not be comparable.",
+                    "example": "Compared to other persons your age, would you say your health is excellent, good, fair, or poor?\n\nWould you say your health in general is excellent, very good, good, fair, or poor?",
+                    "explanation": "The first question (1985 NCHS-NHIS) and the second question (1995 NCHS-NHIS) use different wording, namely, \"compared to other persons your age\" vs \"in general.\" This may guide respondents to evaluate their health in a different context.",
+                    "citation": "Aday, 1996; Foddy, 1993"
                 },
-                {
-                    "diagnostic vogue": {
-                        "definition": "The same illness may receive different diagnostic labels at different points in space or time.",
-                        "example": "Do you have bronchitis?\n\nDo you have emphysema?",
-                        "explanation": "The terms \"bronchitis\" and \"emphysema\" are used in Great Britain and in North America, respectively, to refer to the same disease. It is therefore important to use the term that is appropriate in space and time.",
-                        "citation": "Sackett, 1979"
-                    }
+                "diagnostic vogue": {
+                    "definition": "The same illness may receive different diagnostic labels at different points in space or time.",
+                    "example": "Do you have bronchitis?\n\nDo you have emphysema?",
+                    "explanation": "The terms \"bronchitis\" and \"emphysema\" are used in Great Britain and in North America, respectively, to refer to the same disease. It is therefore important to use the term that is appropriate in space and time.",
+                    "citation": "Sackett, 1979"
                 }
-            ]
+            }
         },
         "2. questionnaire_design": {
-            "Formatting problem": [
-                {
-                    "horizontal response format": {
-                        "definition": "In self-administered questionnaires, horizontal vs vertical format of the response choices can affect the answers.",
-                        "example": "Your health is:\nExcellent ... [ ] Good ... [ ] Fair ... [ ] Poor ... [ ]\n\nYour health is:\nExcellent ........ [ ]\nGood ............. [ ]\nFair ............... [ ]\nPoor .............. [ ]",
-                        "explanation": "The horizontal response format (first example) can cause confusion among the respondents because of poor spacing and may result in the wrong answers being checked or circled. The vertical response format (second example) has been suggested as better for listing response options.",
-                        "citation": "Dillman 1978"
-                    }
+            "Formatting problem": {
+                "horizontal response format": {
+                    "definition": "In self-administered questionnaires, horizontal vs vertical format of the response choices can affect the answers.",
+                    "example": "Your health is:\nExcellent ... [ ] Good ... [ ] Fair ... [ ] Poor ... [ ]\n\nYour health is:\nExcellent ........ [ ]\nGood ............. [ ]\nFair ............... [ ]\nPoor .............. [ ]",
+                    "explanation": "The horizontal response format (first example) can cause confusion among the respondents because of poor spacing and may result in the wrong answers being checked or circled. The vertical response format (second example) has been suggested as better for listing response options.",
+                    "citation": "Dillman 1978"
                 },
-                {
-                    "juxtaposed scale (questionnaire format)": {
-                        "definition": "Juxtaposed scales, a type of self-report response scale that asks respondents to give multiple responses to one item, may elicit different responses than separate scales.",
-                        "example": "1. Indicate how important and how satisfied you are with each of the following using a scale of 1 to 5:\n\n1A. Indicate how important each of the following is to you using a scale of 1 to 5:\n\n 1B. Indicate how satisfied you are with each of the following using a scale of 1 to 5:",
-                        "explanation": "The above question is in a juxtaposed scale format. The advantage is that it can force respondents to think and compare the importance and satisfaction for each item because they are side by side. However, this questionnaire format has been shown to cause confusion among respondents who are less educated, in which case the following question, with parts A and B in a separate scale format, may be preferred.",
-                        "citation": ""
-                    }
+                "juxtaposed scale (questionnaire format)": {
+                    "definition": "Juxtaposed scales, a type of self-report response scale that asks respondents to give multiple responses to one item, may elicit different responses than separate scales.",
+                    "example": "1. Indicate how important and how satisfied you are with each of the following using a scale of 1 to 5:\n\n1A. Indicate how important each of the following is to you using a scale of 1 to 5:\n\n 1B. Indicate how satisfied you are with each of the following using a scale of 1 to 5:",
+                    "explanation": "The above question is in a juxtaposed scale format. The advantage is that it can force respondents to think and compare the importance and satisfaction for each item because they are side by side. However, this questionnaire format has been shown to cause confusion among respondents who are less educated, in which case the following question, with parts A and B in a separate scale format, may be preferred.",
+                    "citation": ""
                 },
-                {
-                    "left alignment and right alignment": {
-                        "definition": "",
-                        "example": "Your health is:\nexcellent ......[ ]\ngood ............[ ]\nfair ..............[ ]\npoor ............[ ]\n\nYour health is:\n[ ] excellent\n[ ] good\n[ ] fair\n[ ] poor",
-                        "explanation": "It has been suggested that placing the response choices to the right side of (i.e., after) the list of possible responses will result in fewer errors on the part of interviewers in a personal or telephone interview. This facilitates subsequent data input directly from the questionnaire. For mailed and other self-administered questionnaires, placing the response choices to the left of (i.e., before) the possible responses makes it easier for the respondent to circle or check them.",
-                        "citation": "Dillman, 1978"
-                    }
+                "left alignment and right alignment": {
+                    "definition": "",
+                    "example": "Your health is:\nexcellent ......[ ]\ngood ............[ ]\nfair ..............[ ]\npoor ............[ ]\n\nYour health is:\n[ ] excellent\n[ ] good\n[ ] fair\n[ ] poor",
+                    "explanation": "It has been suggested that placing the response choices to the right side of (i.e., after) the list of possible responses will result in fewer errors on the part of interviewers in a personal or telephone interview. This facilitates subsequent data input directly from the questionnaire. For mailed and other self-administered questionnaires, placing the response choices to the left of (i.e., before) the possible responses makes it easier for the respondent to circle or check them.",
+                    "citation": "Dillman, 1978"
                 }
-            ],
-            "Questionnaire too long": [
-                {
-                    "no-saying (nay-saying) and yes-saying (yea-saying)": {
-                        "definition": "Some respondents tend to answer no to all questions or to answer yes to all questions",
-                        "example": "What are the reasons why you do not exercise daily?",
-                        "explanation": "In the above example, the respondent chooses yes for all items. One way to reduce the no- or yes-saying bias is to use both positive and negative statements about the same issue in a battery of items to break the pattern, as in the following example: 1. People with AIDS deserve to have the disease....\n2. People with AIDS should be given more help.......",
-                        "citation": "Aday, 1996"
-                    }
+            },
+            "Questionnaire too long": {
+                "no-saying (nay-saying) and yes-saying (yea-saying)": {
+                    "definition": "Some respondents tend to answer no to all questions or to answer yes to all questions",
+                    "example": "What are the reasons why you do not exercise daily?",
+                    "explanation": "In the above example, the respondent chooses yes for all items. One way to reduce the no- or yes-saying bias is to use both positive and negative statements about the same issue in a battery of items to break the pattern, as in the following example: 1. People with AIDS deserve to have the disease....\n2. People with AIDS should be given more help.......",
+                    "citation": "Aday, 1996"
                 },
-                {
-                    "open question (open-ended question)": {
-                        "definition": "Open-ended questions can result in data with differential quality. Also, respondents are likely to be unwilling to take the time to answer them.",
-                        "example": "What kind of physical exercise do you do?",
-                        "explanation": "This open-ended question presents a difficult recording task. The interviewer must decide whether to record everything that the respondent says, record only what the interviewer considers relevant, or paraphrase the respondent's answer. However, in some circumstances, open-ended questions are more appropriate than close-ended questions, particularly in surveys of knowledge and attitudes, and can yield a wealth of information through appropriate qualitative methods such as content analysis.",
-                        "citation": "Schlesselman 1982; Foddy, 1993"
-                    }
+                "open question (open-ended question)": {
+                    "definition": "Open-ended questions can result in data with differential quality. Also, respondents are likely to be unwilling to take the time to answer them.",
+                    "example": "What kind of physical exercise do you do?",
+                    "explanation": "This open-ended question presents a difficult recording task. The interviewer must decide whether to record everything that the respondent says, record only what the interviewer considers relevant, or paraphrase the respondent's answer. However, in some circumstances, open-ended questions are more appropriate than close-ended questions, particularly in surveys of knowledge and attitudes, and can yield a wealth of information through appropriate qualitative methods such as content analysis.",
+                    "citation": "Schlesselman 1982; Foddy, 1993"
                 },
-                {
-                    "response fatigue": {
-                        "definition": "Questionnaires that are too long can induce fatigue among respondents and result in uniform and inaccurate answers.",
-                        "example": "Now we would like to move on to our Question no. 618, concerning the health of your pet fish. . . .",
-                        "explanation": "Personal interviews usually last 50 to 90 minutes; telephone interviews typically last 30 to 60 minutes; self-administered questionnaires typically take 10 to 20 minutes to complete. From field experience, interviewers and respondents report these times to be acceptable, and common sense suggests that much longer times are not feasible. Respondents are unable to concentrate and give correct answers in a lengthy interview, especially if the topics are not of interest. Toward the end of a lengthy session, respondents tend to say all yes or all no or refuse to answer all remaining questions.",
-                        "citation": "Hartge, 1998; Aday, 1996"
-                    }
+                "response fatigue": {
+                    "definition": "Questionnaires that are too long can induce fatigue among respondents and result in uniform and inaccurate answers.",
+                    "example": "Now we would like to move on to our Question no. 618, concerning the health of your pet fish. . . .",
+                    "explanation": "Personal interviews usually last 50 to 90 minutes; telephone interviews typically last 30 to 60 minutes; self-administered questionnaires typically take 10 to 20 minutes to complete. From field experience, interviewers and respondents report these times to be acceptable, and common sense suggests that much longer times are not feasible. Respondents are unable to concentrate and give correct answers in a lengthy interview, especially if the topics are not of interest. Toward the end of a lengthy session, respondents tend to say all yes or all no or refuse to answer all remaining questions.",
+                    "citation": "Hartge, 1998; Aday, 1996"
                 }
-            ],
-            "Flawed questionnaire structure": [
-                {
-                    "skipping question": {
-                        "definition": "Skipping questions may lead to the loss of important information because of logical errors in the flow of questions.",
-                        "example": "1. Are you self-employed?\n[ ] Yes\n[ ] No (Go to question 8)\n\n2. Do you smoke?\n[ ] Yes\n[ ] No\n\n3. . . .\n\n8. Do you use a cellular telephone?\n[ ] Yes\n[ ] No",
-                        "explanation": "The above questions, because of errors in the skipping sequence, will not collect smoking information for those who are not self-employed. Pretesting of the survey instrument should prevent such a bias.",
-                        "citation": ""
-                    }
+            },
+            "Flawed questionnaire structure": {
+                "skipping question": {
+                    "definition": "Skipping questions may lead to the loss of important information because of logical errors in the flow of questions.",
+                    "example": "1. Are you self-employed?\n[ ] Yes\n[ ] No (Go to question 8)\n\n2. Do you smoke?\n[ ] Yes\n[ ] No\n\n3. . . .\n\n8. Do you use a cellular telephone?\n[ ] Yes\n[ ] No",
+                    "explanation": "The above questions, because of errors in the skipping sequence, will not collect smoking information for those who are not self-employed. Pretesting of the survey instrument should prevent such a bias.",
+                    "citation": ""
                 }
-            ]
+            }
         },
         "3. questionnaire_administration": {
-            "Interviewer not objective": [
-                {
-                    "interviewer": {
-                        "definition": "Bias can be caused by an interviewer's subconscious or even conscious gathering of selective data, which can result from inter-interviewer or intrainterviewer errors",
-                        "example": "Do you smoke? Yes [ ] No [ ]",
-                        "explanation": "If an interviewer knows that the respondent does not have a smoking-related disease, and therefore is unlikely to be a smoker, he or she may rephrase the question and ask instead, \"You don't smoke, do you?\" This is a leading question and is likely to lead to a negative answer. Proper interviewer training is needed to prevent such biases.",
-                        "citation": "Last, 2001; Choi, 1992; Schlesselman, 1982"
-                    }
+            "Interviewer not objective": {
+                "interviewer": {
+                    "definition": "Bias can be caused by an interviewer's subconscious or even conscious gathering of selective data, which can result from inter-interviewer or intrainterviewer errors",
+                    "example": "Do you smoke? Yes [ ] No [ ]",
+                    "explanation": "If an interviewer knows that the respondent does not have a smoking-related disease, and therefore is unlikely to be a smoker, he or she may rephrase the question and ask instead, \"You don't smoke, do you?\" This is a leading question and is likely to lead to a negative answer. Proper interviewer training is needed to prevent such biases.",
+                    "citation": "Last, 2001; Choi, 1992; Schlesselman, 1982"
                 },
-                {
-                    "nonblinding": {
-                        "definition": "When an interviewer is not blind to the study hypotheses, he or she may consciously gather selective data.",
-                        "example": "1. Do you have lung cancer? Yes [ ] No [ ]\n2. Do you smoke? Yes [ ] No [ ]",
-                        "explanation": "The first question reveals to the interviewer the disease status of the respondent, and this may affect the way he or she asks or records the answer for the second question. Besides providing interviewer training, it is also important to ensure that interviewers are blind to the study hypotheses.",
-                        "citation": "Rothman, 1998"
-                    }
+                "nonblinding": {
+                    "definition": "When an interviewer is not blind to the study hypotheses, he or she may consciously gather selective data.",
+                    "example": "1. Do you have lung cancer? Yes [ ] No [ ]\n2. Do you smoke? Yes [ ] No [ ]",
+                    "explanation": "The first question reveals to the interviewer the disease status of the respondent, and this may affect the way he or she asks or records the answer for the second question. Besides providing interviewer training, it is also important to ensure that interviewers are blind to the study hypotheses.",
+                    "citation": "Rothman, 1998"
                 }
-            ],
-            "Respondent's subconscious reaction": [
-                {
-                    "end aversion (central tendency)": {
-                        "definition": "Respondents usually avoid ends of scales in their answers. They tend to try to be conservative and wish to be in the middle.",
-                        "example": "Do you agree?\n[ ] Strongly agree\n[ ] Agree\n[ ] Disagree\n[ ] Strongly disagree",
-                        "explanation": "Respondents are more likely to check \"Agree\" or \"Disagree\" than \"Strongly agree\" or \"Strongly disagree\"",
-                        "citation": "Foddy, 1993; Aday, 1996"
-                    },
-                    "positive satisfaction (also known as positive skew)": {
-                        "definition": "Questions on satisfaction may cause problems.",
-                        "example": "Are you satisfied with your family? ................?\n[ ] Yes\n[ ] No\n[ ]",
-                        "explanation": "Respondents tend to give positive answers when answering questions on satisfaction",
-                        "citation": "Aday, 1996"
-                    }
+            },
+            "Respondent's subconscious reaction": {
+                "end aversion (central tendency)": {
+                    "definition": "Respondents usually avoid ends of scales in their answers. They tend to try to be conservative and wish to be in the middle.",
+                    "example": "Do you agree?\n[ ] Strongly agree\n[ ] Agree\n[ ] Disagree\n[ ] Strongly disagree",
+                    "explanation": "Respondents are more likely to check \"Agree\" or \"Disagree\" than \"Strongly agree\" or \"Strongly disagree\"",
+                    "citation": "Foddy, 1993; Aday, 1996"
+                },
+                "positive satisfaction (also known as positive skew)": {
+                    "definition": "Questions on satisfaction may cause problems.",
+                    "example": "Are you satisfied with your family? ................?\n[ ] Yes\n[ ] No\n[ ]",
+                    "explanation": "Respondents tend to give positive answers when answering questions on satisfaction",
+                    "citation": "Aday, 1996"
                 }
-            ],
-            "Respondent's conscious reaction": [
-                {
-                    "faking bad (hello-goodbye effect)": {
-                        "definition": "Respondents try to appear sick to qualify for support.",
-                        "example": "Which of the following symptoms do you have?",
-                        "explanation": "Respondents tend to check more types of symptoms than they have.",
-                        "citation": "Aday, 1996"
-                    }
+            },
+            "Respondent's conscious reaction": {
+                "faking bad (hello-goodbye effect)": {
+                    "definition": "Respondents try to appear sick to qualify for support.",
+                    "example": "Which of the following symptoms do you have?",
+                    "explanation": "Respondents tend to check more types of symptoms than they have.",
+                    "citation": "Aday, 1996"
                 },
-                {
-                    "faking good (social desirability, obsequiousness)": {
-                        "definition": "Respondents may systematically alter questionnaire responses in the direction they perceive to be desired by the investigator. Socially undesirable answers tend to be under-reported.",
-                        "example": "Did you smoke during your pregnancy? Yes [ ] No [ ]",
-                        "explanation": "Mothers tend to answer no even if they smoked during pregnancy",
-                        "citation": "Aday, 1996; Sackett, 1979; Foddy, 1993"
-                    }
+                "faking good (social desirability, obsequiousness)": {
+                    "definition": "Respondents may systematically alter questionnaire responses in the direction they perceive to be desired by the investigator. Socially undesirable answers tend to be under-reported.",
+                    "example": "Did you smoke during your pregnancy? Yes [ ] No [ ]",
+                    "explanation": "Mothers tend to answer no even if they smoked during pregnancy",
+                    "citation": "Aday, 1996; Sackett, 1979; Foddy, 1993"
                 },
-                {
-                    "unacceptable disease": {
-                        "definition": "Socially unacceptable disorders (e.g., sexually transmitted diseases, suicide, insanity) tend to be underreported.",
-                        "example": "Do you have a sexually transmitted disease?",
-                        "explanation": "Ask these questions toward the end of the questionnaire so that they will not affect other questions. Also consider using anonymous, mailed questionnaires instead of face-to-face interviews.",
-                        "citation": "Aday, 1996"
-                    }
+                "unacceptable disease": {
+                    "definition": "Socially unacceptable disorders (e.g., sexually transmitted diseases, suicide, insanity) tend to be underreported.",
+                    "example": "Do you have a sexually transmitted disease?",
+                    "explanation": "Ask these questions toward the end of the questionnaire so that they will not affect other questions. Also consider using anonymous, mailed questionnaires instead of face-to-face interviews.",
+                    "citation": "Aday, 1996"
                 },
-                {
-                    "unacceptable exposure": {
-                        "definition": "Socially unacceptable exposures (e.g., smoking, drug abuse) tend to be underreported.",
-                        "example": "Do you now smoke cigarettes every day?",
-                        "explanation": "A direct and intruding question like the one above may result in reporting inaccuracy. Instead, when asking about undesirable behaviors, it is better to ask whether the person had ever engaged in the behavior in the past before asking about current practices, because past events are less threatening. For example:\n1. Have you smoked at least 100 cigarettes in your entire life?\n2. Last year, were you smoking cigarettes every day?\n3. Do you now smoke cigarettes every day?",
-                        "citation": "Aday, 1996"
-                    }
+                "unacceptable exposure": {
+                    "definition": "Socially unacceptable exposures (e.g., smoking, drug abuse) tend to be underreported.",
+                    "example": "Do you now smoke cigarettes every day?",
+                    "explanation": "A direct and intruding question like the one above may result in reporting inaccuracy. Instead, when asking about undesirable behaviors, it is better to ask whether the person had ever engaged in the behavior in the past before asking about current practices, because past events are less threatening. For example:\n1. Have you smoked at least 100 cigarettes in your entire life?\n2. Last year, were you smoking cigarettes every day?\n3. Do you now smoke cigarettes every day?",
+                    "citation": "Aday, 1996"
                 },
-                {
-                    "unacceptability": {
-                        "definition": "Measurements which hurt, embarrass, invade privacy, or require excessive commitment may be systematically refused or evaded.",
-                        "example": "We would now require two urine specimens from you. The first specimen will be collected over a 24-hour period, part of which will be while you are in your natural working environment, probably toward the end of the work week, such as on a Friday. The second specimen will be taken over another 24-hour period while you are at home, out of the work environment for at least 24 hours, such as on a Sunday. During collection, keep all urine samples refrigerated, in the refrigerator at home, or by the portable thermos bottle and ice-packs at work. When finished, please call the taxi company with the instruction sheet to deliver the samples to the laboratory.",
-                        "explanation": "Avoid measurements by intrusive means, or consider using incentives to increase participation rate.",
-                        "citation": "Sackett, 1979; Choi, 1995"
-                    }
+                "unacceptability": {
+                    "definition": "Measurements which hurt, embarrass, invade privacy, or require excessive commitment may be systematically refused or evaded.",
+                    "example": "We would now require two urine specimens from you. The first specimen will be collected over a 24-hour period, part of which will be while you are in your natural working environment, probably toward the end of the work week, such as on a Friday. The second specimen will be taken over another 24-hour period while you are at home, out of the work environment for at least 24 hours, such as on a Sunday. During collection, keep all urine samples refrigerated, in the refrigerator at home, or by the portable thermos bottle and ice-packs at work. When finished, please call the taxi company with the instruction sheet to deliver the samples to the laboratory.",
+                    "explanation": "Avoid measurements by intrusive means, or consider using incentives to increase participation rate.",
+                    "citation": "Sackett, 1979; Choi, 1995"
                 },
-                {
-                    "underlying cause (rumination)": {
-                        "definition": "Cases may ruminate about possible causes for their illness and thus exhibit different recall of prior exposures from those of controls",
-                        "example": "Did you have skull x-rays in the past five years?",
-                        "explanation": "In a case-control study of childhood brain tumors, a significantly elevated risk was reported by cases for skull x-rays compared to controls. It is not known whether this was a true effect of x-rays on brain tumors or of cases' thinking that x-rays were the cause of their illness.",
-                        "citation": "Sackett, 1979; Howe; 1989"
-                    }
+                "underlying cause (rumination)": {
+                    "definition": "Cases may ruminate about possible causes for their illness and thus exhibit different recall of prior exposures from those of controls",
+                    "example": "Did you have skull x-rays in the past five years?",
+                    "explanation": "In a case-control study of childhood brain tumors, a significantly elevated risk was reported by cases for skull x-rays compared to controls. It is not known whether this was a true effect of x-rays on brain tumors or of cases' thinking that x-rays were the cause of their illness.",
+                    "citation": "Sackett, 1979; Howe; 1989"
                 }
-            ],
-            "Respondent's learning": [
-                {
-                    "learning": {
-                        "definition": "Completing a questionnaire can be a learning experience for the respondent about the hypotheses and expected answers in a study.",
-                        "example": "1. Which of the following investigations would you order for a patient of yours with asthma-like symptoms?\n[ ] spirometry [ ] lung volumes, diffusing capacity [ ] peak expiratory flow rate [ ] chest X-ray\n2. Under what conditions would you order spirometry for a patient?",
-                        "explanation": "Having thought about prior questions (such as the first question) can affect the respondent's answer to subsequent questions (e.g., the second question) through the learning process as the questionnaire is completed. To avoid learning bias, it may be necessary to randomize the order of the questions for different respondents.",
-                        "citation": ""
-                    }
+            },
+            "Respondent's learning": {
+                "learning": {
+                    "definition": "Completing a questionnaire can be a learning experience for the respondent about the hypotheses and expected answers in a study.",
+                    "example": "1. Which of the following investigations would you order for a patient of yours with asthma-like symptoms?\n[ ] spirometry [ ] lung volumes, diffusing capacity [ ] peak expiratory flow rate [ ] chest X-ray\n2. Under what conditions would you order spirometry for a patient?",
+                    "explanation": "Having thought about prior questions (such as the first question) can affect the respondent's answer to subsequent questions (e.g., the second question) through the learning process as the questionnaire is completed. To avoid learning bias, it may be necessary to randomize the order of the questions for different respondents.",
+                    "citation": ""
                 },
-                {
-                    "hypothesis guessing": {
-                        "definition": "Respondents may systematically alter questionnaire responses when, during the process of answering the questionnaire, they think they know the study hypothesis.",
-                        "example": "1. Does your child have headaches?......................\n2. Does your child play with battery-operated toys?\n3. Does your child play with batteries?...................\n 4. How many and which types of batteries do you have at home?",
-                        "explanation": "The respondents, perceiving that the study is about headache and battery use, may overreport the number of batteries if they have a child with headaches.",
-                        "citation": ""
-                    }
+                "hypothesis guessing": {
+                    "definition": "Respondents may systematically alter questionnaire responses when, during the process of answering the questionnaire, they think they know the study hypothesis.",
+                    "example": "1. Does your child have headaches?......................\n2. Does your child play with battery-operated toys?\n3. Does your child play with batteries?...................\n 4. How many and which types of batteries do you have at home?",
+                    "explanation": "The respondents, perceiving that the study is about headache and battery use, may overreport the number of batteries if they have a child with headaches.",
+                    "citation": ""
                 }
-            ],
-            "Respondent's inaccurate recall": [
-                {
-                    "primacy and recency": {
-                        "definition": "Depending on the type of questionnaire (interviewer-administered questionnaires or self-administered questionnaires), respondents may choose answers differently.",
-                        "example": "Which of the following types of doctors did you see in the past year?\n[ ] family doctor\n[ ] pediatrician\n[ ] lung doctor/internist\n[ ] allergy doctor/immunologist\n[ ] emergency room doctor\n[ ] some other kind",
-                        "explanation": "Research has indicated that in mailed surveys, respondents may tend to choose the first few response options on the list (primacy bias), though in telephone or personal interview surveys, they are more likely to respond in favor of the later categories (recency bias). These effects can be minimized by reducing the number of categories presented to respondents and by randomizing the order of categories in survey instruments.",
-                        "citation": "Ayidiya, 1990; Salant, 1994"
-                    }
+            },
+            "Respondent's inaccurate recall": {
+                "primacy and recency": {
+                    "definition": "Depending on the type of questionnaire (interviewer-administered questionnaires or self-administered questionnaires), respondents may choose answers differently.",
+                    "example": "Which of the following types of doctors did you see in the past year?\n[ ] family doctor\n[ ] pediatrician\n[ ] lung doctor/internist\n[ ] allergy doctor/immunologist\n[ ] emergency room doctor\n[ ] some other kind",
+                    "explanation": "Research has indicated that in mailed surveys, respondents may tend to choose the first few response options on the list (primacy bias), though in telephone or personal interview surveys, they are more likely to respond in favor of the later categories (recency bias). These effects can be minimized by reducing the number of categories presented to respondents and by randomizing the order of categories in survey instruments.",
+                    "citation": "Ayidiya, 1990; Salant, 1994"
                 },
-                {
-                    "proxy respondent (surrogate data)": {
-                        "definition": "For deceased cases or surviving cases (e.g., brain tumors) whose ability to recall details is defective, soliciting information from proxies (e.g., spouse, family members) may result in differential data accuracy. In general, it is not advisable to ask someone to answer attitudinal, knowledge, or behavior questions for others.",
-                        "example": "1. What is your wife's occupation?\n 2. Please tell me how afraid your wife is of getting cancer?",
-                        "explanation": "The first question is appropriate but the second question is not.",
-                        "citation": "Aday, 1996"
-                    }
+                "proxy respondent (surrogate data)": {
+                    "definition": "For deceased cases or surviving cases (e.g., brain tumors) whose ability to recall details is defective, soliciting information from proxies (e.g., spouse, family members) may result in differential data accuracy. In general, it is not advisable to ask someone to answer attitudinal, knowledge, or behavior questions for others.",
+                    "example": "1. What is your wife's occupation?\n 2. Please tell me how afraid your wife is of getting cancer?",
+                    "explanation": "The first question is appropriate but the second question is not.",
+                    "citation": "Aday, 1996"
                 },
-                {
-                    "recall": {
-                        "definition": "This type of bias is because of differences in accuracy or completeness of recall prior to major events or experiences.",
-                        "example": "How many diagnostic x-ray examinations did you have when you were pregnant?",
-                        "explanation": "It was found that mothers whose children have had leukemia were more likely than mothers of healthy children to remember details of diagnostic x-ray examinations to which these children were exposed in utero.",
-                        "citation": "Sackett, 1979; Last, 2001"
-                    }
+                "recall": {
+                    "definition": "This type of bias is because of differences in accuracy or completeness of recall prior to major events or experiences.",
+                    "example": "How many diagnostic x-ray examinations did you have when you were pregnant?",
+                    "explanation": "It was found that mothers whose children have had leukemia were more likely than mothers of healthy children to remember details of diagnostic x-ray examinations to which these children were exposed in utero.",
+                    "citation": "Sackett, 1979; Last, 2001"
                 },
-                {
-                    "telescope": {
-                        "definition": "Respondents usually recall an event in the distant past as happening more recently. This is a form of recall bias.",
-                        "example": "In an interview in May, an event which was thought to have occurred in March actually happened in November of the previous year.",
-                        "explanation": "Telescope bias can be reduced by the bounded recall procedure in which respondents are interviewed at the beginning and end of the time period referenced in a survey questionnaire. The first interview would serve to identify events that occurred before the interview period so that they could clearly be eliminated if the respondent later reported that they occurred during the period between the first and second interviews. However, this procedure must ask people about the same thing twice.",
-                        "citation": "Aday, 1996"
-                    }
+                "telescope": {
+                    "definition": "Respondents usually recall an event in the distant past as happening more recently. This is a form of recall bias.",
+                    "example": "In an interview in May, an event which was thought to have occurred in March actually happened in November of the previous year.",
+                    "explanation": "Telescope bias can be reduced by the bounded recall procedure in which respondents are interviewed at the beginning and end of the time period referenced in a survey questionnaire. The first interview would serve to identify events that occurred before the interview period so that they could clearly be eliminated if the respondent later reported that they occurred during the period between the first and second interviews. However, this procedure must ask people about the same thing twice.",
+                    "citation": "Aday, 1996"
                 }
-            ],
-            "Cultural differences": [
-                {
-                    "cultural": {
-                        "definition": "The culture of the respondents can affect their perception of questions and therefore their answers.",
-                        "example": "What is your gross monthly income?",
-                        "explanation": "The culture in North America and Europe is to think in terms of annual income. For the above question, it is inevitable that some respondents will put down a figure representing annual, not monthly, income. This question would be appropriate for a survey in Asia, however, since the culture there is to report monthly income. Pretesting the survey instrument should minimize this bias.",
-                        "citation": "van Hemert, 2001"
-                    }
+            },
+            "Cultural differences": {
+                "cultural": {
+                    "definition": "The culture of the respondents can affect their perception of questions and therefore their answers.",
+                    "example": "What is your gross monthly income?",
+                    "explanation": "The culture in North America and Europe is to think in terms of annual income. For the above question, it is inevitable that some respondents will put down a figure representing annual, not monthly, income. This question would be appropriate for a survey in Asia, however, since the culture there is to report monthly income. Pretesting the survey instrument should minimize this bias.",
+                    "citation": "van Hemert, 2001"
                 }
-            ]
+            }
         }
     },
     "definitions": {
-        "bias": "\"deviation of results or inferences from the truth, or processes leading to such a deviation\" (Sackett, David L. \"Bias in analytic research.\" The case-control study consensus and controversy. Pergamon, 1979. 51-63.)",
+        "bias": "\"deviation of results or inferences from the truth, or processes leading to such a deviation\" (Sackett, David L. \"Bias in analytic research.\" The case-control study consensus and controversy. Pergamon, 1979. 51-63.)"
     }
 }
